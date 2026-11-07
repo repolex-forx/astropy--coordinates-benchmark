@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "coordinates-benchmark",
+  "versions": [
+    {
+      "commit": "34ee5cd04d3abf770307f6f78451712768cce117",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:37:22.120035+00:00"
+    }
+  ]
+}
